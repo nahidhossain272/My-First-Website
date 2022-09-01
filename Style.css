@@ -1,0 +1,43 @@
+h1{
+    color:blue;
+    background-color: red;
+    border-radius: 20px;
+}
+img{
+    
+    width:100%;
+}
+h2{
+    color:black;
+    background-color: chartreuse;
+    width: 150px;
+    font-size: 20px;
+}
+h3{
+    color:forestgreen;
+    background-color:cornflowerblue;
+    width:120px;
+}
+#Birthday{
+    color:greenyellow;
+    background-color:crimson;
+    font-size: 15px;
+    height:20px;
+    width:80px;
+}
+h4{
+    color: brown;
+    background-color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width:100px;
+}
+.Friends{
+    color: blue;
+
+}
+.Family{
+    color: red;
+}
+.Alone{
+    color:green;
+}
